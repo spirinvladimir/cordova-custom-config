@@ -1,6 +1,6 @@
 {
-    "version": "3.0.13",
-    "name": "cordova-custom-config",
+    "version": "3.0.14",
+    "name": "cordova-custom-config_TEST",
     "cordova_name": "cordova-custom-config",
     "description": "Cordova/Phonegap plugin to update platform configuration files based on preferences and config-file data defined in config.xml.",
     "author": "Dave Alden",
